@@ -1,0 +1,18 @@
+Text: Eine Station hat einen Namen und eine Nummer.
+Eine Zugverbindung fährt ohne Halt von einer Station zu einer anderen.
+Zugverbindungen haben eine Abfahrtszeit, eine Ankunftszeit und einen (Abfahrts)tag.
+Verbindungen können von mehreren Zügen genutzt werden.
+Züge
+
+Nahverkehrs- und Fernzüge sind Züge und bestehen aus Wagen, die wiederum Plätze enthalten.
+Nahverkehrs- und Fernzüge (Züge) haben jeweils eindeutige Nummern.
+Fernzüge haben Namen und manchmal Speisewagen als besondere Wagen.
+Jeder Platz hat eine Nummer und eine Klasse. Zusätzlich wird festgehalten, ob es ein Raucherplatz und/oder ein Fensterplatz ist.
+Jeder Wagen hat eine eindeutige Nummer.
+Tickets und Reservierungen
+
+Ein Ticket gilt für eine oder mehrere Verbindungen und hat einen Preis und eine Ticketnummer.
+Für Tickets können ein oder mehrere Aufschläge / Rabatte berechnet werden
+Ein Aufschlag oder Rabatt hat einen Namen, einen Betrag und eine Einheit.
+Ein Aufschlag oder Rabatt kann einen anderen oder mehrere ausschließen.
+Sprache: de

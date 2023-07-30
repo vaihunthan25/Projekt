@@ -1,0 +1,8 @@
+Text: Ein Zeitschriftenvertrieb hat viele unterschiedliche Zeitungen im Angebot. Die Kun- den sind keine Privatleute, sondern Einzelhandelsgescha ̈fte, die Zeitungen in ihrem Sortiment fu ̈hren. Jeden Morgen wird jeder Kunde mit den gewu ̈nschten Zeitungen beliefert. Welche Zeitungen zu liefern sind, ist in einem Vertrag geregelt.
+Es gibt Zeitschriften mit unterschiedlichen Erscheinungszeitra ̈umen (täglich, wöchentlich, 14-tägig, monatlich, 2-monatlich und 1/4-jährlich).
+Nicht verkaufte Zeitschriften kann der Händler wieder zurückgeben.
+Lieferscheine werden täglich erstellt.
+Die Rücknahmen werden täglich verbucht.
+Die Rechnungen werden monatlich erstellt.
+Rückstände werden monatlich angemahnt.
+Sprache: de

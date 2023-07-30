@@ -1,0 +1,6 @@
+Text: Ein Bier hat Name und Hersteller. Eine Bar hat einen Namen, Adresse und Lizenz.
+Und schenkt bestimmte Biere aus. Ein Trinker hat Name und Adresse.
+Und besucht Bars.
+Und mag Biere.
+Ein Trinker kann ein Lieblingsbier haben. Zusätzlich: Ein Hersteller hat einen Bestseller.
+Sprache: de

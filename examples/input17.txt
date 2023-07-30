@@ -1,0 +1,2 @@
+Text: Ein LKW wird von einem Fahrer gefahren. Das Unternehmen unterhält mehrere Werkstätten zur Reparatur der LKW. In jeder Werkstatt werden mehrere LKW repariert, aber jeder LKW hat eine ihm fest zugewiesene Werkstatt. Die Mechaniker, die einer Werkstatt jeweils fest zugeordnet sind, können verschiedene Reparaturarbeiten durchführen. Bei vielen Reparaturarbeiten besitzen auch mehrere Mechaniker in der jeweiligen Werkstatt die Fähigkeit, diese durchzuführen.
+Sprache: de

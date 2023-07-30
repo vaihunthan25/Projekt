@@ -1,0 +1,8 @@
+Text: In einigen Sportarten werden auch eine oder mehrere Mannschaften gestellt, die an Wettbe­werben teilnehmen.
+Die Mannschaften setzen sich aus Mitgliedern des Vereins zusammen.
+Vereinsmitglieder müssen nicht zu einer Mannschaft gehören, können aber auch zu mehreren Mannschaften gehören.
+Die einzelnen Mannschaften werden genau von einem Mitglied betreut.
+Ein Mitglied kann auch mehrere Mannschaften betreuen.
+Es gibt verschiedene Sportstätten, die durch ihren Namen und ihre Adresse beschrieben wer­den.
+Die einzelnen Mannschaften trainieren in verschiedenen Sportstätten zu bestimmten Trai­ningszeiten (Wochentag, Trainingszeit). Dabei kann für jede Mannschaft die Sportstätte wechseln.
+Sprache: de

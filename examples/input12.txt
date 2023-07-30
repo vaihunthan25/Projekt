@@ -1,0 +1,4 @@
+Text: Eine Hochschule bietet Veranstaltungen an, die an einem bestimmten Wochentag und einem bestimmten Block in einem bestimmten Raum stattfinden. Jede dieser Veranstaltungen wird von genau einem Dozenten angeboten, von dem Name und Vorname bekannt sind.
+Ein Modul beschreibt die Veranstaltungen, die angeboten werden. Für jeden Modul gibt es eine eindeutige Modulnummer, eine Bezeichnung und die Zahl der CreditPoints, die nach erfolgreichem Absolvieren den Studierenden zugerechnet werden.
+Studierende besuchen Veranstaltungen. Studierende haben einen Namen und Vornamen, sowie eine eindeutige Matrikelnummer.
+Sprache: de

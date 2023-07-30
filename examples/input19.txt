@@ -1,0 +1,2 @@
+Text: Eine Autovermietung besitzt viele verschiedene Automodelle. Jedes Automodell kann durch das Schlüsselattribut „Modellnummer“ eindeutig identifiziert werden. Zu jedem Modell gehört eine Vielzahl an tatsächlichen Autos. Einem Auto ist genau ein RFID-Chip zugeordnet. Um den RFID-Chip eindeutig zu identifizieren benötigt man die Frequenz und den RFID-Code.
+Sprache: de

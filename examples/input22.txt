@@ -1,0 +1,9 @@
+Text: Innerhalb eines Hotels sind die Bettenpreise einheitlich.
+Die Namen der Buchenden sind eindeutig oder werden durch Hinzunahme weiterer Kennzeichen (Geburtsdatum usw.) eindeutig gemacht.
+Eine Person kann für mehrere Termine eine Reise buchen.
+Jede Reise geht zu genau einem Hotel.
+An einem Ort können mehrere Hotels existieren.
+Ein Hotelname kann an verschiedenen Orten mit unterschiedlicher Hotelkategorie auftreten. Er ist aber dort eindeutig.
+Es treten keine gleichen Ortsnamen auf.
+Für jeden Ort gibt es nur eine Meereshöhenangabe.
+Sprache: de

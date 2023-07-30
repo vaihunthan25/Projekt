@@ -1,0 +1,10 @@
+Text: Die Dienstleistungsgesellschaft für Informatik (Dfl-GmbH) ist eine Bildungsein- richtung im Raum Villingen-Schwenningen (VS). Das Unternehmen hat sich auf die Abnahme von IT-Zertifizierungen spezialisiert. Zu diesem Zweck unterhält sie an verschiedenen Standorten in Villingen-Schwenningen und Umgebung eine
+bestimmte Anzahl an PC-Räumen (z.B.: Volkshochschule VS, 4 Räume; Bildungszentrum Schwenningen, 2 Räume; InfoPlan-Center Villingen, 1 Raum u.a.). Jeder Standort wird von einem Mitarbeiter der Dfl-GmbH organisatorisch
+betreut.
+Die Kunden der Dfl-GmbH können verschiedene IT-Zertifikate erwerben (z.B.: „Computerführerschein"; „Open-Office-Spezialist"; „IT Experte" u.a.). Die Verwaltung der Zertifizierungen soll mit dem Einsatz einer Relationalen Daten-
+bank unterstützt werden. Für den Erwerb eines Zertifikates melden sich die Teilnehmer zu einer Prüfung an, für die eine bestimmte Gebühr zu entrichten ist. Die Prüfungen werden jeweils an einem der Standorte der Dfl-GmbH durchgeführt. Eine Zertifikatsprü- fung besteht in der Regel aus mehreren Prüfungsmodulen („Betriebssysteme", „Textverarbeitung", „Tabellenkalkulation" u.a.), die innerhalb eines Tages abge- legt werden müssen. Zu beachten ist, dass einige Prüfungsmodule Bestandteil mehrerer Zertifikatsprüfungen sein können. So ist beispielsweise das Prüfungs- modul Tabellenkalkulation" sowohl für die Zertifikatsprüfung „Open-Office-
+Spezialist" als auch für den „IT-Experte" relevant. Für jede Prüfung sollen das Prüfungsdatum, das zu erwerbende Zertifikat, die Prüfungsgebühr sowie die angemeldeten Teilnehmer mit Vorname, Nachname,
+E-Mail-Adresse sowie das Anmeldedatum erfasst werden. Für die Durchführung der Prüfungen ist jeweils ein Mitarbeiter der Dfl-GmbH als Prüfungsleiter verantwortlich. Für die Mitarbeiter sind der Name sowie die
+Anschrift mit Straße, Postleitzahl und Wohnort zu speichern. Von den Standorten sind die Bezeichnung, die Anschrift mit Strasse, Postleitzahl
+und Ort sowie die Anzahl der PC-Räume zu speichern.
+Sprache: de

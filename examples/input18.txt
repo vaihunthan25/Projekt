@@ -1,0 +1,2 @@
+Text: Ein Automobilkonzern besitzt mehrere Marken. Eine Marke wird über die Markennummer eindeutig identifiziert. Ein Automobilkonzern beschäftigt mehrere Beraterfirmen. Eine Beraterfirma kann bei mehreren Automobilkonzernen beschäftigt sein.
+Sprache: de

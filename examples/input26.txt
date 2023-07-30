@@ -1,0 +1,5 @@
+Text: In einer Fachhochschule gibt es Dozenten (Dozentinnen sind mitgemeint), die durch Vornamen und Nachnamen genauer gekennzeichnet sind.
+In dieser Fachhochschule gibt es verschiedene Studienfächer, die durch ein eindeutiges Kürzel und eine lange Bezeichnung gekennzeichnet sind.
+An der Durchführung eines Studienfaches wirken jeweils mehrere Dozenten mit, ein einzelner Dozent wirkt an der Durchführung mehrerer Studienfächer mit.
+Zu jedem Studienfach gibt es genau einen Fachsprecher aus dem Kreis der Dozenten. Dozenten können Fachsprecher für mehrere Studienfächer sein.
+Sprache: de

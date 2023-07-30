@@ -1,0 +1,3 @@
+Text: Vom Kunden: KFZ-Kennzeichen, Kilometerstand; ist der Kunde zum ersten Male da, wird der Name, Vorname, Adresse, Telnr erfasst
+Von der Rechnung: Beim Abholen des Autos bekommt der Kunde eine Rechnung mit folgenden Daten: Einzelteile, Anzahl der Einzelteile, Beschreibung der Arbeiten, Angaben zum Auto wie Marke, PS, usw.; eine Rechnungsummer(wird vergeben) und das Auftragsdatum!
+Sprache: de
