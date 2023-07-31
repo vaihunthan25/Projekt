@@ -87,10 +87,15 @@ This Project uses Python 3.10.9
 ### Installing Dependencys
 
 ```
-pip install spacy
-pip install pyspellchecker
-python -m spacy download de_core_news_sm
-...
+# pip install spacy
+# pip install pyspellchecker
+# pip install -U scikit-learn
+# python -m spacy download de_core_news_sm
+# pip install pandas
+# python3 -m pip install tensorflow
+# pip install matplotlib
+# pip install plotly
+# pip install livelossplot
 ```
 
 
