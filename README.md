@@ -87,10 +87,10 @@ This Project uses Python 3.10.9
 ### Installing Dependencys
 
 ```
-pip install scrapy
 pip install spacy
 pip install pyspellchecker
 python -m spacy download de_core_news_sm
+...
 ```
 
 
