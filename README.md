@@ -80,6 +80,17 @@ This .json contains all unstructured raw text data. It is used as a document col
 
 This file can be uploaded into ER-Modeling-Tool to get the extracted ER-Model from unstructured text with nlp techniques
 
+## Dependencys
 
+This Project uses Python 3.10.9
+
+### Installing Dependencys
+
+```
+pip install scrapy
+pip install spacy
+pip install pyspellchecker
+python -m spacy download de_core_news_sm
+```
 
 
