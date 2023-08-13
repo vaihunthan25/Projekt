@@ -1,6 +1,10 @@
-Text: Eine Stadtverwaltung möchte alle ressortübergreifenden Projekte in einer Datenbank erfassen.
-Jedem Projekt muss ein Mitarbeiter zugeordnet werden, der das Projekt leitet. Mitarbeiter können zeitgleich oder im Laufe der Zeit verschiedene Projekte leiten.
-Außerdem sollen einem Projekt Mitarbeiter zugewiesen werden könnnen, die an dem Projekt mitarbeiten sollen. Dies muss jedoch nicht bereits bei der Neuanlage eines Projekts erfolgen. Mitarbeiter können zeitgleich oder im Laufe der Zeit an verschiedenen Projekten mitarbeiten.
+Text: 
+Eine Stadtverwaltung möchte alle ressortübergreifenden Projekte in einer Datenbank erfassen.
+Jedem Projekt muss ein Mitarbeiter zugeordnet werden, der das Projekt leitet. 
+Mitarbeiter können zeitgleich oder im Laufe der Zeit verschiedene Projekte leiten.
+Außerdem sollen einem Projekt Mitarbeiter zugewiesen werden könnnen, die an dem Projekt mitarbeiten sollen. 
+Dies muss jedoch nicht bereits bei der Neuanlage eines Projekts erfolgen. 
+Mitarbeiter können zeitgleich oder im Laufe der Zeit an verschiedenen Projekten mitarbeiten.
 Für alle beteiligten Mitarbeiter muss außerdem das Ressort angegeben sein, in dem sie arbeiten.
 Für jedes Projekt sollen die Projektbezeichnung, eine Kurzbeschreibung, das Start- und das Abschlussdatum, der Projektleiter sowie alle weiteren Projektmitarbeiter verfügbar sein.
 Für jeden Mitarbeiter sollen Personalnummer, Vor- und Nachname sowie das Ressort, in dem er arbeitet, verfügbar sein.

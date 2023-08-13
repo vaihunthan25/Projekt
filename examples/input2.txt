@@ -1,9 +1,20 @@
-Text: Ein Maschinenbau-Unternehmen möchte seine Fertigung in einer zentralen Datenbank verwalten.
-Das Unternehmen hat verschiedene Fertigungsstraßen eingerichtet, in denen jeweils genau ein Produkt hergestellt wird. Manche Produkte werden nicht mehr hergestellt, andere sind dagegen so gefragt, dass sie sogar in mehreren Fertigungsstraßen gefertigt werden.
-Eine Fertigungsstraße setzt sich aus verschiedenen Fertigungsstationen zusammen. Es soll jedoch auch möglich sein, eine Fertigungsstraße zu speichern, der noch keine Fertigungsstationen zugewiesen sind. Eine Fertigungsstation gehört stets zu genau einer Fertigungsstraße.
-An einer Fertigungsstation arbeiten in der Regel mehrere Mitarbeiter. In der Planungsphase ist es jedoch auch möglich, dass ihr noch kein Mitarbeiter zugeordnet ist. Ein Mitarbeiter ist höchstens einer Fertigungsstation zugeordnet.
-In einer Fertigungsstation können für die einzelnen Arbeitsschritte Maschinen zum Einsatz kommen. Jede Maschine wird in höchstens einer Fertigungsstation verwendet werden. Maschinen, die gerade nicht in einer Fertigungsstraße eingesetzt sind, werden eingelagert, bis sie wieder in einer Fertigungsstraße benötigt bzw. verkauft oder verschrottet werden.
-Für jede Maschine wird außerdem erfasst, welche Mitarbeiter prinzipiell in der Lage sind, sie zu bedienen. Es besteht auch die Möglichkeit, dass eine neu angeschaffte Maschine zunächst noch von keinem Mitarbeiter bedient werden kann. Es gibt auch Mitarbeiter, die (noch) nicht in der Lage sind, eine Maschine zu bedienen. Andere wiederum haben Schulungen für verschiedene Maschinen erhalten.
+Text: 
+Ein Maschinenbau-Unternehmen möchte seine Fertigung in einer zentralen Datenbank verwalten.
+Das Unternehmen hat verschiedene Fertigungsstraßen eingerichtet, in denen jeweils genau ein Produkt hergestellt wird. 
+Manche Produkte werden nicht mehr hergestellt, andere sind dagegen so gefragt, dass sie sogar in mehreren Fertigungsstraßen gefertigt werden.
+Eine Fertigungsstraße setzt sich aus verschiedenen Fertigungsstationen zusammen. 
+Es soll jedoch auch möglich sein, eine Fertigungsstraße zu speichern, der noch keine Fertigungsstationen zugewiesen sind. 
+Eine Fertigungsstation gehört stets zu genau einer Fertigungsstraße.
+An einer Fertigungsstation arbeiten in der Regel mehrere Mitarbeiter. 
+In der Planungsphase ist es jedoch auch möglich, dass ihr noch kein Mitarbeiter zugeordnet ist. 
+Ein Mitarbeiter ist höchstens einer Fertigungsstation zugeordnet.
+In einer Fertigungsstation können für die einzelnen Arbeitsschritte Maschinen zum Einsatz kommen. 
+Jede Maschine wird in höchstens einer Fertigungsstation verwendet werden. 
+Maschinen, die gerade nicht in einer Fertigungsstraße eingesetzt sind, werden eingelagert, bis sie wieder in einer Fertigungsstraße benötigt bzw. verkauft oder verschrottet werden.
+Für jede Maschine wird außerdem erfasst, welche Mitarbeiter prinzipiell in der Lage sind, sie zu bedienen. 
+Es besteht auch die Möglichkeit, dass eine neu angeschaffte Maschine zunächst noch von keinem Mitarbeiter bedient werden kann. 
+Es gibt auch Mitarbeiter, die (noch) nicht in der Lage sind, eine Maschine zu bedienen. 
+Andere wiederum haben Schulungen für verschiedene Maschinen erhalten.
 Für jedes Produkt soll eine Artikelnummer und eine Bezeichnung verfügbar sein.
 Für jede Fertigungsstraße soll ein Kürzel und eine Bezeichnung verfügbar sein.
 Für jede Fertigungsstation soll ein Kürzel und eine Bezeichnung verfügbar sein.

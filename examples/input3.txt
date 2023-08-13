@@ -1,9 +1,10 @@
-Text: Das Küchenstudio „Musterküchen" benötigt eine Datenbank, welche folgende Anforderungen erfüllen
-soll: Das Küchenstudio bietet verschiedene Küchenmöbel an (z.B.: Hängeschrank „Top Fred",
-Hängeschrank „Herzog", Spüle „Superclean", ...).
+Text: 
+Das Küchenstudio „Musterküchen" benötigt eine Datenbank, welche folgende Anforderungen erfüllen soll. 
+Das Küchenstudio bietet verschiedene Küchenmöbel an.
 Jedes Küchenmöbel wird von genau einem Hersteller bezogen.
-Jedes Küchenmöbel hat bestimmte Abmessungen und gehört zu einer Kategorie (z.B.
-Hängeschrank, Spüle ...) Die Mitarbeiter des Küchenstudios verkaufen die Küchen. Küchen bestehen aus mehreren
-Küchenmöbeln. Ein Küchenmöbel kann in mehrere Küchen eingebaut werden.
+Jedes Küchenmöbel hat bestimmte Abmessungen und gehört zu einer Kategorie.
+Die Mitarbeiter des Küchenstudios verkaufen die Küchen. 
+Küchen bestehen aus mehreren Küchenmöbeln. 
+Ein Küchenmöbel kann in mehrere Küchen eingebaut werden.
 Für den Verkauf einer Küche ist jeweils ein Mitarbeiter zuständig.
 Sprache: de

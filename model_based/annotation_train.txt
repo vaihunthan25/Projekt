@@ -1,0 +1,96 @@
+Ein Geschäft hat viele Filialen. 
+Jede Filiale darf von höchstens einem Filialleiter geführt werden. 
+Ein Filialleiter darf höchstens zwei Filialen leiten.
+Ohne eine Filiale wird kein Filialleiter bestimmt. 
+Die Filiale bietet viele Produkte an. 
+Das Produkt wird von vielen Filialen angeboten. 
+Die Filiale beschäftigt viele Mitarbeiter. 
+Ein Mitarbeiter darf höchstens einen Verkauf bearbeiten. 
+Im Verkauf können viele Produkte involviert sein. 
+Jedes  Produkt enthält Preis, Produktname und eindeutige Produkt-ID. 
+Es gibt zwei spezielle Produkttypen: Neuwaren, bei denen die Verpackungsnummer registriert ist. 
+Bei Gebrauchtwaren wird die Anzahl der Vorbesitzer mitgeführt. 
+Eine Filiale wird durch die Filial-ID eindeutig identifiziert.
+Die Filiale hat einen Filialnamen, eine Filialadresse und eine Telefonnummer. 
+Verkauf enthält Datum, Uhrzeit und Betrag.
+Jeder Mitarbeiter hat einen Mitarbeiternamen bestehend aus Vorname und Nachname, eine oder mehrere Mitarbeiteradressen und eine Telefonnummer. 
+Die Mitarbeiter und der Filialleiter werden durch eine ID identifiziert.
+
+Eine Stadtverwaltung möchte alle ressortübergreifenden Projekte in einer Datenbank erfassen.
+Jedem Projekt muss ein Mitarbeiter zugeordnet werden, der das Projekt leitet. 
+Mitarbeiter können zeitgleich oder im Laufe der Zeit verschiedene Projekte leiten.
+Außerdem sollen einem Projekt Mitarbeiter zugewiesen werden könnnen, die an dem Projekt mitarbeiten sollen. 
+Dies muss jedoch nicht bereits bei der Neuanlage eines Projekts erfolgen. 
+Mitarbeiter können zeitgleich oder im Laufe der Zeit an verschiedenen Projekten mitarbeiten.
+Für alle beteiligten Mitarbeiter muss außerdem das Ressort angegeben sein, in dem sie arbeiten.
+Für jedes Projekt sollen die Projektbezeichnung, eine Kurzbeschreibung, das Start- und das Abschlussdatum, der Projektleiter sowie alle weiteren Projektmitarbeiter verfügbar sein.
+Für jeden Mitarbeiter sollen Personalnummer, Vor- und Nachname sowie das Ressort, in dem er arbeitet, verfügbar sein.
+Für jedes Ressort soll dessen Bezeichnung gespeichert werden können.
+In der Datenbank sollen alle Ressorts der Stadt verfügbar sein, auch wenn ein Ressort bisher noch keinen Mitarbeiter für ein solches Projekt abgestellt hat.
+
+Ein Maschinenbau-Unternehmen möchte seine Fertigung in einer zentralen Datenbank verwalten.
+Das Unternehmen hat verschiedene Fertigungsstraßen eingerichtet, in denen jeweils genau ein Produkt hergestellt wird. 
+Manche Produkte werden nicht mehr hergestellt, andere sind dagegen so gefragt, dass sie sogar in mehreren Fertigungsstraßen gefertigt werden.
+Eine Fertigungsstraße setzt sich aus verschiedenen Fertigungsstationen zusammen. 
+Es soll jedoch auch möglich sein, eine Fertigungsstraße zu speichern, der noch keine Fertigungsstationen zugewiesen sind. 
+Eine Fertigungsstation gehört stets zu genau einer Fertigungsstraße.
+An einer Fertigungsstation arbeiten in der Regel mehrere Mitarbeiter. 
+In der Planungsphase ist es jedoch auch möglich, dass ihr noch kein Mitarbeiter zugeordnet ist. 
+Ein Mitarbeiter ist höchstens einer Fertigungsstation zugeordnet.
+In einer Fertigungsstation können für die einzelnen Arbeitsschritte Maschinen zum Einsatz kommen. 
+Jede Maschine wird in höchstens einer Fertigungsstation verwendet werden. 
+Maschinen, die gerade nicht in einer Fertigungsstraße eingesetzt sind, werden eingelagert, bis sie wieder in einer Fertigungsstraße benötigt bzw. verkauft oder verschrottet werden.
+Für jede Maschine wird außerdem erfasst, welche Mitarbeiter prinzipiell in der Lage sind, sie zu bedienen. 
+Es besteht auch die Möglichkeit, dass eine neu angeschaffte Maschine zunächst noch von keinem Mitarbeiter bedient werden kann. 
+Es gibt auch Mitarbeiter, die (noch) nicht in der Lage sind, eine Maschine zu bedienen. 
+Andere wiederum haben Schulungen für verschiedene Maschinen erhalten.
+Für jedes Produkt soll eine Artikelnummer und eine Bezeichnung verfügbar sein.
+Für jede Fertigungsstraße soll ein Kürzel und eine Bezeichnung verfügbar sein.
+Für jede Fertigungsstation soll ein Kürzel und eine Bezeichnung verfügbar sein.
+Für jede Maschine soll eine Anlagennummer und eine Bezeichnung verfügbar sein.
+Für jeden Mitarbeiter sollen Personalnummer sowie Vor- und Nachname verfügbar sein.
+
+Das Küchenstudio „Musterküchen" benötigt eine Datenbank, welche folgende Anforderungen erfüllen soll. 
+Das Küchenstudio bietet verschiedene Küchenmöbel an.
+Jedes Küchenmöbel wird von genau einem Hersteller bezogen.
+Jedes Küchenmöbel hat bestimmte Abmessungen und gehört zu einer Kategorie.
+Die Mitarbeiter des Küchenstudios verkaufen die Küchen. 
+Küchen bestehen aus mehreren Küchenmöbeln. 
+Ein Küchenmöbel kann in mehrere Küchen eingebaut werden.
+Für den Verkauf einer Küche ist jeweils ein Mitarbeiter zuständig.
+
+Eine Hochschule bietet Veranstaltungen an, die an einem bestimmten Wochentag und einem bestimmten Block in einem bestimmten Raum stattfinden. 
+Jede dieser Veranstaltungen wird von genau einem Dozenten angeboten, von dem Name und Vorname bekannt sind.
+Ein Modul beschreibt die Veranstaltungen, die angeboten werden. 
+Für jeden Modul gibt es eine eindeutige Modulnummer, eine Bezeichnung und die Zahl der CreditPoints, die nach erfolgreichem Absolvieren den Studierenden zugerechnet werden.
+Studierende besuchen Veranstaltungen. 
+Studierende haben einen Namen und Vornamen, sowie eine eindeutige Matrikelnummer.
+
+Eine KFZ-Zulassungsstelle in einem Landkreis möchte Informationen über die bei ihr zugelassenen KFZ und ihre Eigentümer speichern. 
+Dabei interessieren folgende Informationen:
+Von den Eigentümern der KFZ werden Name, Vorname, Geburtsdatum und die Postanschrift mit Straße, Ort und PLZ benötigt.
+Von den zugelassenen Fahrzeugen wird die Fahrgestellnummer und das Baujahr verzeichnet.
+Außerdem werden die Fahrzeuge in Typklassen eingeordnet. 
+Jeder Fahrzeugtyp hat einen Typcode, die Angabe des Herstellers, des Modells und der Schadstoffklasse.
+Bei der Zulassung eines Fahrzeugs wird das Kennzeichen vergeben. 
+Die Zulassung findet zu einem bestimmten Datum statt. 
+Ein Fahrzeug kann auch abgemeldet werden, dann wird das Abmeldedatum verzeichnet. 
+Ein Fahrzeug kann erst einen Tag nach der Zulassung wieder abgemeldet werden.
+
+Ein Flugzeug hat einen bestimmten Typ, wie z.B. „A340-400“, ein Kennzeichen, das es identifiziert, wie „D-AGHT“, ein Baujahr und eine Anzahl von Sitzplätzen.
+Flugzeuge legen Flugstrecken zurück. 
+Jede Flugstrecke hat eine Flugnummer, wie z.B. „LH-353“. 
+Die Flugnummer bezeichnet den Flug der Flugstrecke mitsamt seiner Abflugzeit. 
+Der Flug der Strecke wird somit durch die Flugnummer und den Tag der Flugs eindeutig festgelegt.
+Flugstrecken führen von einem Startflughafen zu einem Zielflughafen, haben eine bestimmte Dauer und eine bestimmte Strecke in Meilen.
+Passagiere haben einen Namen und Vornamen. 
+Sie buchen Flugstrecken.
+Frequent Flyers sind Passagiere, die häufig fliegen und am Prämienprogramm teilnehmen.
+Sie haben ein Meilenkonto mit einer eindeutigen Kontonummer. 
+Über jeden Frequent Flyer ist bekannt, wieviele Prämienmeilen er bisher angesammelt hat.
+
+Ein LKW wird von einem Fahrer gefahren. 
+Das Unternehmen unterhält mehrere Werkstätten zur Reparatur der LKW. 
+In jeder Werkstatt werden mehrere LKW repariert, aber jeder LKW hat eine ihm fest zugewiesene Werkstatt. 
+Die Mechaniker, die einer Werkstatt jeweils fest zugeordnet sind, können verschiedene Reparaturarbeiten durchführen. 
+Bei vielen Reparaturarbeiten besitzen auch mehrere Mechaniker in der jeweiligen Werkstatt die Fähigkeit, diese durchzuführen.

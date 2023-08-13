@@ -1,7 +1,0 @@
-Text: Ein Projekt kann von mehreren Mitarbeitern bearbeitet werden, aber auch umgekehrt kann ein Mitarbeiter mehrere Projekte bearbeiten
-Ein Mitarbeiter arbeitet in einem Raum und umgekehrt arbeiten in jedem Raum mehrere Mitarbeiter
-In Niederlassung können mehrere Mitarbeiter arbeiten; umgekehrt ist aber ein Mitarbeiter einer Niederlassung als Arbeitsplatz zugeordnet
-Ein Kunde kann mehrere Projekte in Auftrag geben; ein Projekt kann nur von einem Kunden in Auftrag gegeben werden!
-Die Objekte haben folgende Attribute: Kunde(KNr), Projekt(PNr, Abgabedatum), Mitarbeiter(Name, Vorname, MNr), Niederlassung(NNr, Ort), Raum(RNr, Bezeichnung)
-Jedes von einem Mitarbeiter durchgeführte Projekt bekommt eine Bewertung!
-Sprache: de

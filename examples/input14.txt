@@ -1,7 +1,0 @@
-Text: Ein Flugzeug hat einen bestimmten Typ, wie z.B. „A340-400“, ein Kennzeichen, das es identifiziert, wie „D-AGHT“, ein Baujahr und eine Anzahl von Sitzplätzen.
-Flugzeuge legen Flugstrecken zurück. Jede Flugstrecke hat eine Flugnummer, wie z.B. „LH-353“. Die Flugnummer bezeichnet den Flug der Flugstrecke mitsamt seiner Abflugzeit. Der Flug der Strecke wird somit durch die Flugnummer und den Tag der Flugs eindeutig festgelegt.
-Flugstrecken führen von einem Startflughafen zu einem Zielflughafen, haben eine bestimmte Dauer und eine bestimmte Strecke in Meilen.
-Passagiere haben einen Namen und Vornamen. Sie buchen Flugstrecken.
-Frequent Flyers sind Passagiere, die häufig fliegen und am Prämienprogramm teilnehmen.
-Sie haben ein Meilenkonto mit einer eindeutigen Kontonummer. Über jeden Frequent Flyer ist bekannt, wieviele Prämienmeilen er bisher angesammelt hat.
-Sprache: de

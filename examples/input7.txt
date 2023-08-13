@@ -1,9 +1,7 @@
-Text: Jede Fluggesellschaft hat ein Kürzel, einen Namen und einen Stammsitz.
-Jedes Flugzeug hat eine Seriennummer, einen Hersteller, einen Typ und eine Passagierkapazität.
-Jeder Abflug hat eine Nummer, eine Abflugzeit (Datum und Uhrzeit) und einen Zielort.
-Jede Fluggesellschaft hat mindestens ein Flugzeug (seit bestimmtem Tag). Jedes Flugzeug wird von genau einer Fluggesellschaft betrieben.
-Für jeden Abflug wird genau ein Flugzeug eingesetzt. Flugzeuge sind (natürlich) wieder verwendbar.
-Jeder Flugzeugführer hat einen Namen und ein Geburtsjahr. Er hat die Berechtigung, bestimmte Flugzeugtypen zu fliegen. Jedes Flugzeug, das einer Fluggesellschaft gehört, hat mindestens einen zum Fliegen berechtigten Flugzeugführer.
-Für jeden Abflug braucht es einen Piloten und einen Copiloten.
-Die Rolle Pilot oder Copilot hängt vom Flug und nicht vom Flugzeug ab. Ein bestimmter Flugzeugführer kann je nach Flug Pilot oder Copilot sein.
+Text: 
+Ein LKW wird von einem Fahrer gefahren. 
+Das Unternehmen unterhält mehrere Werkstätten zur Reparatur der LKW. 
+In jeder Werkstatt werden mehrere LKW repariert, aber jeder LKW hat eine ihm fest zugewiesene Werkstatt. 
+Die Mechaniker, die einer Werkstatt jeweils fest zugeordnet sind, können verschiedene Reparaturarbeiten durchführen. 
+Bei vielen Reparaturarbeiten besitzen auch mehrere Mechaniker in der jeweiligen Werkstatt die Fähigkeit, diese durchzuführen.
 Sprache: de

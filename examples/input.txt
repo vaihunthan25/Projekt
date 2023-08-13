@@ -1,15 +1,19 @@
-Text: Ein Geschäft hat viele Filialen. Jede Filiale darf von höchstens einem Filialleiter
-geführt werden. Ein Filialleiter darf höchstens zwei Filialen leiten.
-Ohne eine Filiale wird kein Filialleiter bestimmt. Die Filiale bietet viele Produkte
-an. Das Produkt wird von vielen Filialen angeboten. Die Filiale beschäftigt viele
-Mitarbeiter. Ein Mitarbeiter darf höchstens einen Verkauf bearbeiten. Im Verkauf
-können viele Produkte involviert sein. Jedes  Produkt enthält Preis, Produktname und
-eindeutige Produkt-ID. Es gibt zwei spezielle Produkttypen: Neuwaren, bei denen
-die Verpackungsnummer registriert ist. Bei Gebrauchtwaren wird die Anzahl der
-Vorbesitzer mitgeführt. Eine Filiale wird durch die Filial-ID eindeutig identifiziert.
-Die Filiale hat einen Filialnamen, eine Filialadresse und eine Telefonnummer. Verkauf enthält
-Datum, Uhrzeit und Betrag.
-Jeder Mitarbeiter hat einen Mitarbeiternamen bestehend aus Vorname und Nachname, eine oder
-mehrere Mitarbeiteradressen und eine Telefonnummer. Die Mitarbeiter und der Filialleiter
-werden durch eine ID identifiziert.
+Text: 
+Ein Geschäft hat viele Filialen. 
+Jede Filiale darf von höchstens einem Filialleiter geführt werden. 
+Ein Filialleiter darf höchstens zwei Filialen leiten.
+Ohne eine Filiale wird kein Filialleiter bestimmt. 
+Die Filiale bietet viele Produkte an. 
+Das Produkt wird von vielen Filialen angeboten. 
+Die Filiale beschäftigt viele Mitarbeiter. 
+Ein Mitarbeiter darf höchstens einen Verkauf bearbeiten. 
+Im Verkauf können viele Produkte involviert sein. 
+Jedes  Produkt enthält Preis, Produktname und eindeutige Produkt-ID. 
+Es gibt zwei spezielle Produkttypen: Neuwaren, bei denen die Verpackungsnummer registriert ist. 
+Bei Gebrauchtwaren wird die Anzahl der Vorbesitzer mitgeführt. 
+Eine Filiale wird durch die Filial-ID eindeutig identifiziert.
+Die Filiale hat einen Filialnamen, eine Filialadresse und eine Telefonnummer. 
+Verkauf enthält Datum, Uhrzeit und Betrag.
+Jeder Mitarbeiter hat einen Mitarbeiternamen bestehend aus Vorname und Nachname, eine oder mehrere Mitarbeiteradressen und eine Telefonnummer. 
+Die Mitarbeiter und der Filialleiter werden durch eine ID identifiziert.
 Sprache: de
