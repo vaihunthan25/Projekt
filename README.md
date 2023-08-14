@@ -64,6 +64,10 @@ This dir contains all relevant files for the two model based approaches with ker
 
 This directory saves pictures which are used in the jupyter notebooks
 
+- directory "literature":
+
+This directory saves the projektarbeit.pdf and the internet sources of the used train data
+
 - directory "rule_based":
 
 In this folder the main de_rule_based.ipynb is saved. The corresponding output files from this notebook are also saved in this directory
